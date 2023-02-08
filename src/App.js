@@ -15,7 +15,6 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome Beautiful World
         </a>
       </header>
     </div>
