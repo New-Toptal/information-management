@@ -21,25 +21,25 @@ The SRS document outline has four parts:
 The information management production is an application that
 users can save or share documents including interview questions, job posts, experiences, skill assessments, and something else in a group or private channel.
 
-### Product scope
+### `Product scope`
 The multiple teams or users that are authorized will have access to the document.
 
 The document manager accept users or team's request and allows to access to the documents.
-### Product value, Intended use
+### `Product value, Intended use`
 Collaborate with team to gather or share documents including interview questions, job pots, experiences, skill assessments and provide regular updates on the database.
 
 
 
 ## System requirements and functional requirements
 
-### Authtication
+### `Authtication`
 Authorization is a process by which a server determines if the client has permission to use a resource or access documents.
 
 Register function: the server accepts new users' requests.
 
 Login function:  the server allows authorized users access to documents.
 
-### Documents View, inserts
+### `Documents View, inserts`
 Sort function: sorts the documents by updated date.
 
 Search function: search documents by filter(date, username, keywords)
@@ -48,11 +48,11 @@ Insert function: the authorized user can inserts documents
 
 ## Production Structure
 
-### Register/Login components: 
+### `Register/Login components: `
 - The component should include name field, gmail field, password field in register panel
 - The component should include name field, gmail field, password field in login pannel
 
-### Dashboard component
+### `Dashboard component`
 - A list of documents fields on the right side of screen.
 - A center panel that displays the messages for the currently focused chat group.
 - A Search filter at the top of the center panel.
