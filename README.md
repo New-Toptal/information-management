@@ -1,9 +1,6 @@
 # Information Management App
 
 
-> The official React components for Stream Chat, a service for
-> building chat applications.
-
 [![NPM](https://img.shields.io/npm/v/stream-chat-react.svg)](https://www.npmjs.com/package/stream-chat-react)
 [![build](https://github.com/GetStream/stream-chat-react/workflows/test/badge.svg)](https://github.com/GetStream/stream-chat-react/actions)
 [![Component Reference](https://img.shields.io/badge/docs-component%20reference-blue.svg)](https://getstream.io/chat/docs/sdk/react/)
