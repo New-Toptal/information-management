@@ -1,8 +1,5 @@
 # Information Management App
 
-<p align="center">
-  <a href="https://getstream.io/chat/react-chat/tutorial/"><img src="https://i.imgur.com/SRkDlFX.png" alt="react native chat" width="60%" /></a>
-</p>
 
 > The official React components for Stream Chat, a service for
 > building chat applications.
@@ -87,7 +84,7 @@ As of version `5.0.0`, the component library has been converted to TypeScript. P
 The preferred method for overriding the pre-defined styles in the library is to two step process. First, import our bundled CSS into the file where you instantiate your chat application. Second, You can then add selectors to your local CSS file to override our defaults. For example:
 
 ```js
-import '';
+import './style.css';
 import './App.css';
 ```
 
