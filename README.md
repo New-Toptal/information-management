@@ -13,8 +13,7 @@ The SRS document outline has four parts:
 
 - Introduction
 - Functional requirement
-- External interface requirement
-- Non-functional requirement
+- roduction structure
 
 
 ## Introduction
